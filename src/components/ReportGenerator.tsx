@@ -275,7 +275,7 @@ Date de génération: ${new Date().toLocaleDateString('fr-FR')}
         <h3 className="text-lg font-semibold text-foreground mb-4">Résumé du projet</h3>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
           <div>
-            <p className="text-muted-foreground">Entreprise</p>
+            <p className="text-muted-foreground">R&D Lines</p>
             <p className="font-medium text-foreground">{formData.companyName}</p>
           </div>
           <div>

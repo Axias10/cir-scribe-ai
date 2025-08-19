@@ -32,7 +32,7 @@ export const CIRQuestionnaire = ({ onComplete }: CIRQuestionnaireProps) => {
       title: "Informations générales",
       icon: Building,
       fields: [
-        { key: "companyName", label: "Nom de l'entreprise", type: "input", required: true },
+        { key: "companyName", label: "Nom de R&D Lines", type: "input", required: true },
         { key: "projectTitle", label: "Titre du projet", type: "input", required: true }
       ]
     },
